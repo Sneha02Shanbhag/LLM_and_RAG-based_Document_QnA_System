@@ -1,0 +1,10 @@
+flask
+flask-cors
+numpy
+pypdf
+faiss-cpu
+sentence-transformers
+python-dotenv
+google-genai
+PyMuPDF
+reportlab
