@@ -1,4 +1,4 @@
-# LLM + RAG Based Document Question Answering System
+# LLM & RAG Based Document Question Answering System
 
 An AI-powered web application that allows users to upload PDF documents and interact with them using natural language questions. The system uses Retrieval-Augmented Generation (RAG) to retrieve relevant content from uploaded documents and generate accurate, context-aware answers using Large Language Models (LLMs).
 
